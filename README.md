@@ -4,6 +4,7 @@ Replicate issue where jest takes long time to require dynamoose
 Just run:
 
 npm i
+
 npm run testRequireDynamoose
 
 or for comparison just requiring the aws-sdk
