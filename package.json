@@ -1,0 +1,25 @@
+{
+  "name": "jest-dynamoose-issue",
+  "version": "1.0.0",
+  "description": "Replicate issue where jest takes long time to require dynamoose",
+  "main": "index.js",
+  "dependencies": {
+    "dynamoose": "^2.4.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoargolo/jest-dynamoose-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoargolo/jest-dynamoose-issue/issues"
+  },
+  "homepage": "https://github.com/brunoargolo/jest-dynamoose-issue#readme"
+}
