@@ -11,4 +11,5 @@ or for comparison just requiring the aws-sdk
 
 npm run testRequireAwsSdk
 
-Notice how testImportPojo tests will run almost instantly but testRequire takes a lot longer
+
+The SDK version runs is about 2 seconds and the dynamoose one in a little over 20s.
